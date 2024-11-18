@@ -1,0 +1,5 @@
+{
+  "blocked_domains": ["example.com", "blocked.com", "adult-website.com"],
+  "search_dns": "1.1.1.1",
+  "http_password": "Change-This-Password"
+}
